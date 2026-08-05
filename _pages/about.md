@@ -24,5 +24,5 @@ Friends
 =====
 * [Gurwane Pape](https://perso.eleves.ens-rennes.fr/people/gurwane.pape/)
 * [Rachel Ruellé](https://rachelruelle.github.io/) 
-* [Thibault Antoine](https://people.irisa.fr/Thibaut.Antoine/)
+* [Thibaut Antoine](https://people.irisa.fr/Thibaut.Antoine/)
 * [Raphaël Lecoq](https://perso.eleves.ens-rennes.fr/people/raphael.lecoq/index)
